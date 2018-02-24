@@ -1,0 +1,37 @@
+{
+  "name": "memory-v3-db",
+  "version": "1.0.0",
+  "description": "Database drill 'Galvanize Memory'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwbjr/memory-v3-db.git"
+  },
+  "keywords": [
+    "database",
+    "knexjs",
+    "postgres"
+  ],
+  "author": "Charles Ballew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwbjr/memory-v3-db/issues"
+  },
+  "homepage": "https://github.com/cwbjr/memory-v3-db#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "knex": "^0.14.4",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cypress": "^2.0.3",
+    "mocha": "^5.0.1",
+    "supertest": "^3.0.0"
+  }
+}
