@@ -71,4 +71,4 @@ Deploy this API. Note that you'll need to create a remote database, run your mig
 
 * You can test your API locally with `npm test`
 
-Add a link to your [Heroku deployed API](https://galvanize-memory-v3.herokuapp.com/game) here.
+Add a link to your [Heroku deployed API](https://galvanize-memory-v3.herokuapp.com/games) here.
